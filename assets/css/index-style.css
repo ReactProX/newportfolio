@@ -1,0 +1,26 @@
+body{
+    background: url(../images/backg.png);
+}
+/* looked for a different ways to do this but everything I saw said to use css for stuff like coloring and footer styling, would love to know how to do it within bootstrap */
+.footer-color{
+    color: white;
+    height: 50px;
+    width: 100%;
+    background-color: #00695c;
+    padding-top: 10px;
+    border-top: #4aaaa5 8px solid;
+}
+.margin-top{
+    margin-top: 10px;
+}
+.card-img{
+    height: 200px;
+}
+.card-img-overlay{
+    width: 100%;
+    margin-top: 140px;
+    background-color: #4aaaa5;
+}
+.btn{
+    margin-top:15px;
+}
